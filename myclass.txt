@@ -1,0 +1,5 @@
+Links for preparation:
+1. https://www.includehelp.com/mcq/csharp-multiple-choice-questions-mcqs.aspx
+2. https://www.tutorialspoint.com/csharp/csharp_online_quiz.htm
+3. https://www.examveda.com/c-sharp-programming/practice-mcq-question-on-introduction-to-c-sharp/
+4. https://www.sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/
